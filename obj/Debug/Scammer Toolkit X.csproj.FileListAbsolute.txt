@@ -1,0 +1,9 @@
+E:\Projects\ScammerToolkitX\Scammer Toolkit X\Scammer Toolkit X\bin\Debug\Scammer Toolkit X.exe.config
+E:\Projects\ScammerToolkitX\Scammer Toolkit X\Scammer Toolkit X\bin\Debug\Scammer Toolkit X.exe
+E:\Projects\ScammerToolkitX\Scammer Toolkit X\Scammer Toolkit X\bin\Debug\Scammer Toolkit X.pdb
+E:\Projects\ScammerToolkitX\Scammer Toolkit X\Scammer Toolkit X\obj\Debug\Scammer Toolkit X.csprojResolveAssemblyReference.cache
+E:\Projects\ScammerToolkitX\Scammer Toolkit X\Scammer Toolkit X\obj\Debug\Scammer_Toolkit_X.Form1.resources
+E:\Projects\ScammerToolkitX\Scammer Toolkit X\Scammer Toolkit X\obj\Debug\Scammer_Toolkit_X.Properties.Resources.resources
+E:\Projects\ScammerToolkitX\Scammer Toolkit X\Scammer Toolkit X\obj\Debug\Scammer Toolkit X.csproj.GenerateResource.Cache
+E:\Projects\ScammerToolkitX\Scammer Toolkit X\Scammer Toolkit X\obj\Debug\Scammer Toolkit X.exe
+E:\Projects\ScammerToolkitX\Scammer Toolkit X\Scammer Toolkit X\obj\Debug\Scammer Toolkit X.pdb

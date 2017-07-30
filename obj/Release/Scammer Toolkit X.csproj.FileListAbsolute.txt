@@ -1,0 +1,8 @@
+E:\Projects\ScammerToolkitX\Scammer Toolkit X\Scammer Toolkit X\bin\Release\Scammer Toolkit X.exe.config
+E:\Projects\ScammerToolkitX\Scammer Toolkit X\Scammer Toolkit X\bin\Release\Scammer Toolkit X.exe
+E:\Projects\ScammerToolkitX\Scammer Toolkit X\Scammer Toolkit X\bin\Release\Scammer Toolkit X.pdb
+E:\Projects\ScammerToolkitX\Scammer Toolkit X\Scammer Toolkit X\obj\Release\Scammer_Toolkit_X.Form1.resources
+E:\Projects\ScammerToolkitX\Scammer Toolkit X\Scammer Toolkit X\obj\Release\Scammer_Toolkit_X.Properties.Resources.resources
+E:\Projects\ScammerToolkitX\Scammer Toolkit X\Scammer Toolkit X\obj\Release\Scammer Toolkit X.csproj.GenerateResource.Cache
+E:\Projects\ScammerToolkitX\Scammer Toolkit X\Scammer Toolkit X\obj\Release\Scammer Toolkit X.exe
+E:\Projects\ScammerToolkitX\Scammer Toolkit X\Scammer Toolkit X\obj\Release\Scammer Toolkit X.pdb
